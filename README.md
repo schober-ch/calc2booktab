@@ -1,6 +1,5 @@
 calc2booktab
 ============
-
 A script for OpenOffice / Libreoffice Calc to convert tables to LateX-Code.
 
 It can:
@@ -37,7 +36,7 @@ calc2booktab\_fixed\_dcolumn combines both functionalities.
 
 Why so many functions?
 -----------------
-So with this script, you can set 2 shortkeys, for example F3 and F4 (usually not assigned yet) for basic and dcolumn-function. Hit it, get your code. 
+With this script, you can set 2 shortkeys, for example F3 and F4 (usually not assigned yet) for basic and dcolumn-function. Hit it, get your code. 
 
 As an alternative, you can add a button to your toolbar to start the macro.
 
