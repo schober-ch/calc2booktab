@@ -368,6 +368,7 @@ def convert_code():
     # Insert Stuff for booktabs
     lines_final.insert(0, ["\\toprule"])
     lines_final.insert(2, ["\\midrule"])
+    lines_final.append(["\\bottomrule"])
 
     # Define table header
     if not fixed_width:
